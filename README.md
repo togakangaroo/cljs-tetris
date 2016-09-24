@@ -1,6 +1,6 @@
 # tetris
 
-FIXME: Write a one-line description of your library/project.
+Recreating [this project](http://timothypratley.blogspot.com/2015/07/you-should-be-using-figwheelreagent.html) to experiment with clojurescript
 
 ## Overview
 
